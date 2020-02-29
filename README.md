@@ -1,2 +1,2 @@
-# videoconcat
-把视频剪辑和导出的
+# Bilibilup
+Used for the upload to bilibli
